@@ -1,6 +1,7 @@
-Small projects with langchain, hugging face. Making functioning apps by harnessing the power of APIs.
+# Small projects with langchain, openai, hugging face. 
+Making functioning apps by harnessing the power of APIs.
 
-# YouTube Assistant
+## YouTube Assistant
 YouTube Assistant is a Streamlit application that allows users to ask questions about a YouTube video.
 
 ## Setup and Installation
